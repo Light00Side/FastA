@@ -1,4 +1,3 @@
-
 # FastA: Decentralized API Gateway for Scalable Enterprise Architectures
 > "Empowering high-performance, secure, and adaptive API gateways for the modern enterprise."
 
